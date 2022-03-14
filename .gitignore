@@ -1,0 +1,8 @@
+node_modules
+.env
+env
+localhost.accounts.json
+localhost.deployments.txt
+accounts.json
+artifacts
+

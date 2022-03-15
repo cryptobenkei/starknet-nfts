@@ -5,4 +5,5 @@ localhost.accounts.json
 localhost.deployments.txt
 accounts.json
 artifacts
+/tests/__pycache__/*
 
